@@ -1,2 +1,0 @@
-D:\worktools\develop\mingw64\bin\ar.exe qc libglm.a CMakeFiles/glm.dir/detail/glm.cpp.obj
-D:\worktools\develop\mingw64\bin\ranlib.exe libglm.a
