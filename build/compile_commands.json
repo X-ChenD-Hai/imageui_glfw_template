@@ -1,0 +1,188 @@
+[
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_demo.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_demo.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_demo.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_demo.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_draw.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_draw.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_draw.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_draw.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_tables.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_tables.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_tables.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_tables.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_widgets.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_widgets.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\imgui_widgets.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\imgui_widgets.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_glfw.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\backends\\imgui_impl_glfw.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_opengl3.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\imgui\\backends\\imgui_impl_opengl3.cpp",
+  "output": "third_party\\CMakeFiles\\imgui.dir\\imgui\\backends\\imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\context.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\context.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\init.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\init.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\input.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\input.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\monitor.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\monitor.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\platform.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\platform.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\vulkan.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\vulkan.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\window.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\window.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\egl_context.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\egl_context.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\osmesa_context.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\osmesa_context.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_init.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_init.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_monitor.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_monitor.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_window.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_window.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_joystick.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\null_joystick.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_module.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_module.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_time.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_time.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_thread.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_thread.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_init.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_init.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_joystick.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_joystick.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_monitor.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_monitor.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_window.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\win32_window.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -DUNICODE -DWINVER=0x0501 -D_GLFW_WIN32 -D_UNICODE -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/src -ID:/Users/XCDH/Desktop/code/fightPlane/build/third_party/glfw/src -g -std=c99 -Wall -o third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\wgl_context.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glfw\\src\\wgl_context.c",
+  "output": "third_party\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\gcc.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o third_party\\glad2\\CMakeFiles\\glad2.dir\\src\\gl.c.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glad2\\src\\gl.c",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glad2\\src\\gl.c",
+  "output": "third_party\\glad2\\CMakeFiles\\glad2.dir\\src\\gl.c.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glm -g -o third_party\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glm\\glm\\detail\\glm.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\third_party\\glm\\glm\\detail\\glm.cpp",
+  "output": "third_party\\glm\\glm\\CMakeFiles\\glm.dir\\detail\\glm.cpp.obj"
+},
+{
+  "directory": "D:/Users/XCDH/Desktop/code/fightPlane/build",
+  "command": "D:\\worktools\\develop\\mingw64\\bin\\g++.exe -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/imgui -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glfw/include -ID:/Users/XCDH/Desktop/code/fightPlane/third_party/glad2/include -g -o test\\CMakeFiles\\test_imgui.dir\\imgui.cpp.obj -c D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\test\\imgui.cpp",
+  "file": "D:\\Users\\XCDH\\Desktop\\code\\fightPlane\\test\\imgui.cpp",
+  "output": "test\\CMakeFiles\\test_imgui.dir\\imgui.cpp.obj"
+}
+]

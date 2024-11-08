@@ -1,0 +1,30 @@
+{
+    "cmake.generator": "Ninja",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        // "**/bin": true,
+        "**/.VSCodeCounter": true,
+        "**/CMakeSettings.json": true,
+        "**/lib": true,
+        "**/build": true,
+        "**/.vs": true,
+        "**/.git*": true,
+        "**/.cache": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "cmake.debugConfig": {
+        "type": "lldb"
+    },
+    "cmake.configureArgs": [
+        "-Wno-dev",
+        // "-Dffmpeg_include_dir=D:\\Users\\XCDH\\Desktop\\project\\source\\ffmpeg_msvc\\sdk\\include",
+        // "-Dffmpeg_lib_dir=D:\\Users\\XCDH\\Desktop\\project\\source\\ffmpeg_msvc\\sdk\\lib\\x64",
+        // "-Dffmpeg_include_dir=D:\\Users\\XCDH\\Desktop\\code\\library\\libffmpeg_6.1.r112164_msvc17_x64\\include",
+        // "-Dffmpeg_lib_dir=D:\\Users\\XCDH\\Desktop\\code\\library\\libffmpeg_6.1.r112164_msvc17_x64\\lib\\x64",
+        // "-DFETCHCONTENT_FULLY_DISCONNECTED:BOOL=ON",
+    ],
+}

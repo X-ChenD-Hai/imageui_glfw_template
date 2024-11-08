@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Launch",
+            "type": "lldb",
+            "request": "launch",
+            "program": "${command:cmake.launchTargetPath}",
+            "args": [
+                // "start",
+                // "start1",
+                // "start2",
+                // "start3",
+            ],
+            "cwd": "${workspaceFolder}/bin",
+            "env": {
+                "LD_LIBRARY_PATH": "${workspaceFolder}/bin"
+            }
+        }
+    ]
+}
