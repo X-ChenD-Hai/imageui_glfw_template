@@ -1,0 +1,25 @@
+{
+    "cmake.generator": "Ninja",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        // "**/bin": true,
+        "**/.VSCodeCounter": true,
+        "**/CMakeSettings.json": true,
+        "**/lib": true,
+        "**/build": true,
+        "**/.vs": true,
+        "**/.git*": true,
+        "**/.cache": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true
+    },
+    "cmake.debugConfig": {
+        "type": "lldb"
+    },
+    "cmake.configureArgs": [
+        "-Wno-dev",
+    ],
+}

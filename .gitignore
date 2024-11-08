@@ -1,0 +1,7 @@
+/*
+!/.gitignore
+!/.gitsubmodules
+!/src
+!/test
+!/CMakeLists.txt
+!/.vscode
